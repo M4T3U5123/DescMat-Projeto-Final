@@ -1,9 +1,9 @@
-mport numpy as np
+# Problema: Análise de sistemas lineares de transporte
+# Objetivo: Resolver um problema de alocação de recursos em um sistema de transporte e visualizar os resultados.
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Problema: Análise de sistemas lineares de transporte
-# Objetivo: Resolver um problema de alocação de recursos em um sistema de transporte e visualizar os resultados.
 # Entrada de dados
 # Gerar matriz de custos (aleatória)
 np.random.seed(42)
